@@ -13,7 +13,7 @@
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 <p align="center">
-    Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+    Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br>  <br>
 
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:jayatiwari1602@gmail.com">jayatiwari1602@gmail.com</a> </h4>
